@@ -19,7 +19,7 @@ I am currently a Class 11 student in India combining my Commerce background with
 ---
 
 ### 🛠️ Tech Stack & Tools:
-- **Languages:** Python, SQL
-- **Interests:** Corporate Finance, Data Analysis, Software Engineering
+- **Languages:** Python, SQL , 
+- **Interests:** Cyber security ||
 
 *“Coding solutions today to solve financial challenges tomorrow.”*
